@@ -1,4 +1,4 @@
-![logo](https://github.com/chaurasiya/chaurasiya/blob/main/banner.png
+
 <h1 align="center"> Hi, I'am Sourav Chaurasiya</h1>
 <h3 align="center">"Passionately merging design and tech, I create user-centric digital experiences, crafting functional websites that ride on industry trends."</h3>
 
